@@ -87,9 +87,10 @@ const DogAgeCalculator = () => {
         <div className="text-center py-8">
           <div className="flex items-center justify-center gap-3 mb-4">
             <Dog className="w-8 h-8 text-amber-700" />
-            <h1 className="text-4xl font-bold text-amber-900">Dog Age Calculator</h1>
+            <h1 className="text-4xl font-bold text-amber-900">True Dog Age</h1>
             <Dog className="w-8 h-8 text-amber-700" />
           </div>
+          <p className="text-sm text-amber-600 mb-3">Created by XRAI Studio</p>
           <p className="text-lg text-amber-700 max-w-2xl mx-auto">
             Convert your dog's age to "dog years" based on their breed's average lifespan
           </p>
