@@ -211,7 +211,7 @@ const DogAgeCalculator = () => {
                     <img
                       src={result.image_url}
                       alt={result.breed_name}
-                      className="w-48 h-48 object-cover rounded-full mx-auto shadow-lg border-4 border-amber-200"
+                      className="w-44 h-44 object-cover rounded-lg mx-auto shadow-lg border-4 border-amber-200"
                       onError={(e) => {
                         e.target.src = "https://images.dog.ceo/breeds/retriever-golden/n02099601_7771.jpg";
                       }}
