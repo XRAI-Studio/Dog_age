@@ -11,11 +11,8 @@ from services.age_calculator_service import AgeCalculatorService
 
 logger = logging.getLogger(__name__)
 
-# Get database connection
-from motor.motor_asyncio import AsyncIOMotorClient
-mongo_url = os.environ['MONGO_URL']
-client = AsyncIOMotorClient(mongo_url)
-db = client[os.environ['DB_NAME']]
+# Database will be injected from main app
+db = None
 
 router = APIRouter(prefix="/api", tags=["dog"])
 
