@@ -6,9 +6,6 @@ import os
 import logging
 from pathlib import Path
 
-# Import routes
-from routes.dog_routes import router as dog_router
-
 ROOT_DIR = Path(__file__).parent
 load_dotenv(ROOT_DIR / '.env')
 
@@ -16,6 +13,12 @@ load_dotenv(ROOT_DIR / '.env')
 mongo_url = os.environ['MONGO_URL']
 client = AsyncIOMotorClient(mongo_url)
 db = client[os.environ['DB_NAME']]
+
+# Import routes after DB setup
+from routes.dog_routes import router as dog_router, init_db
+
+# Initialize database in routes  
+init_db(db)
 
 # Create the main app without a prefix
 app = FastAPI()
