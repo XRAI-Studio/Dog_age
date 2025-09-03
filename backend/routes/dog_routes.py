@@ -16,6 +16,11 @@ db = None
 
 router = APIRouter(prefix="/api", tags=["dog"])
 
+def init_db(database):
+    """Initialize database connection"""
+    global db
+    db = database
+
 # Dog breeds data with their lifespans
 DOG_BREEDS_DATA = [
     {"name": "Affenpinscher", "lifespan": 13.5, "api_breed_name": "affenpinscher"},
