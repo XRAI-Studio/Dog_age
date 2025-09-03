@@ -266,7 +266,7 @@ const DogAgeCalculator = () => {
             Formula: Dog Years = Age × (Human Average Lifespan ÷ Breed Average Lifespan)
           </p>
           <p className="text-xs mt-2 opacity-75">
-            Using Human Average Lifespan: 78.8 years
+            Using Human Average Lifespan: 78.8 years. Dog Years are +/-10%
           </p>
         </footer>
       </div>
