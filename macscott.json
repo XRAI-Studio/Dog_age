@@ -1,0 +1,7 @@
+{
+  "schemaVersion": 1,
+  "title": "Dog Age",
+  "description": "Converts human age to dog age based on breed — co-created by Scott and Alexander.",
+  "owner": "both",
+  "accent": "#7c5cff"
+}
