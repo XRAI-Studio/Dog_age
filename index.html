@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dog Age Calculator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Dog Age Calculator</h1>
+        <p>Convert human age to dog age based on breed.</p>
+        <div class="form">
+            <div class="form-group">
+                <label for="human-age">Your Age (years)</label>
+                <input type="number" id="human-age" placeholder="Enter your age">
+            </div>
+            <div class="form-group">
+                <label for="dog-breed">Dog Breed</label>
+                <select id="dog-breed">
+                    <option value="small">Small (up to 20 lbs)</option>
+                    <option value="medium">Medium (21-50 lbs)</option>
+                    <option value="large">Large (51-100 lbs)</option>
+                    <option value="giant">Giant (over 100 lbs)</option>
+                </select>
+            </div>
+            <button id="calculate-btn">Calculate</button>
+        </div>
+        <div id="result"></div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
