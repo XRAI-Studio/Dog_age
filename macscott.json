@@ -3,5 +3,6 @@
   "title": "Dog Age",
   "description": "Converts human age to dog age based on breed — co-created by Scott and Alexander.",
   "owner": "both",
+  "liveUrl": "https://xrai-studio.github.io/Dog_age/",
   "accent": "#7c5cff"
 }
