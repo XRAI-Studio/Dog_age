@@ -1,0 +1,1865 @@
+[
+  {
+    "name": "Affenpinscher",
+    "lifespan": 13.5,
+    "lifespan_range": [
+      12.5,
+      14.5
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      7,
+      10
+    ],
+    "weight_midpoint_lb": 8.5,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "small",
+    "dogceo_breed": "affenpinscher",
+    "dogceo_sub_breed": null,
+    "image_is_substitute": false,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "Afghan Hound",
+    "lifespan": 13,
+    "lifespan_range": [
+      12,
+      14
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      50,
+      60
+    ],
+    "weight_midpoint_lb": 55,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "large",
+    "dogceo_breed": "hound",
+    "dogceo_sub_breed": "afghan",
+    "image_is_substitute": false,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "Airedale Terrier",
+    "lifespan": 12,
+    "lifespan_range": [
+      11,
+      13
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      50,
+      70
+    ],
+    "weight_midpoint_lb": 60,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "large",
+    "dogceo_breed": "airedale",
+    "dogceo_sub_breed": null,
+    "image_is_substitute": false,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "Akita",
+    "lifespan": 12,
+    "lifespan_range": [
+      11,
+      13
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      70,
+      130
+    ],
+    "weight_midpoint_lb": 100,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "giant",
+    "dogceo_breed": "akita",
+    "dogceo_sub_breed": null,
+    "image_is_substitute": false,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "Alaskan Klee Kai",
+    "lifespan": 15,
+    "lifespan_range": [
+      14,
+      16
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      10,
+      40
+    ],
+    "weight_midpoint_lb": 25,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "medium",
+    "dogceo_breed": null,
+    "dogceo_sub_breed": null,
+    "image_is_substitute": true,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "Alaskan Malamute",
+    "lifespan": 13,
+    "lifespan_range": [
+      12,
+      14
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      75,
+      100
+    ],
+    "weight_midpoint_lb": 87.5,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "large",
+    "dogceo_breed": "malamute",
+    "dogceo_sub_breed": null,
+    "image_is_substitute": false,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "American Bulldog",
+    "lifespan": 13,
+    "lifespan_range": [
+      12,
+      14
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      60,
+      120
+    ],
+    "weight_midpoint_lb": 90,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "giant",
+    "dogceo_breed": null,
+    "dogceo_sub_breed": null,
+    "image_is_substitute": true,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "American English Coonhound",
+    "lifespan": 11.5,
+    "lifespan_range": [
+      10.5,
+      12.5
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      45,
+      65
+    ],
+    "weight_midpoint_lb": 55,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "large",
+    "dogceo_breed": null,
+    "dogceo_sub_breed": null,
+    "image_is_substitute": true,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "American Eskimo Dog",
+    "lifespan": 14,
+    "lifespan_range": [
+      13,
+      15
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      6,
+      35
+    ],
+    "weight_midpoint_lb": 20.5,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "medium",
+    "dogceo_breed": "eskimo",
+    "dogceo_sub_breed": null,
+    "image_is_substitute": false,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "American Foxhound",
+    "lifespan": 12.5,
+    "lifespan_range": [
+      11.5,
+      13.5
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      60,
+      70
+    ],
+    "weight_midpoint_lb": 65,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "large",
+    "dogceo_breed": null,
+    "dogceo_sub_breed": null,
+    "image_is_substitute": true,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "American Hairless Terrier",
+    "lifespan": 15,
+    "lifespan_range": [
+      14,
+      16
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      12,
+      28
+    ],
+    "weight_midpoint_lb": 20,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "medium",
+    "dogceo_breed": null,
+    "dogceo_sub_breed": null,
+    "image_is_substitute": true,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "American Leopard Hound",
+    "lifespan": 13.5,
+    "lifespan_range": [
+      12.5,
+      14.5
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      35,
+      75
+    ],
+    "weight_midpoint_lb": 55,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "large",
+    "dogceo_breed": null,
+    "dogceo_sub_breed": null,
+    "image_is_substitute": true,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "American Staffordshire Terrier",
+    "lifespan": 14,
+    "lifespan_range": [
+      13,
+      15
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      40,
+      70
+    ],
+    "weight_midpoint_lb": 55,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "large",
+    "dogceo_breed": null,
+    "dogceo_sub_breed": null,
+    "image_is_substitute": true,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "American Water Spaniel",
+    "lifespan": 12,
+    "lifespan_range": [
+      11,
+      13
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      25,
+      45
+    ],
+    "weight_midpoint_lb": 35,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "medium",
+    "dogceo_breed": null,
+    "dogceo_sub_breed": null,
+    "image_is_substitute": true,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "Anatolian Shepherd Dog",
+    "lifespan": 12,
+    "lifespan_range": [
+      11,
+      13
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      80,
+      150
+    ],
+    "weight_midpoint_lb": 115,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "giant",
+    "dogceo_breed": null,
+    "dogceo_sub_breed": null,
+    "image_is_substitute": true,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "Australian Cattle Dog",
+    "lifespan": 14,
+    "lifespan_range": [
+      13,
+      15
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      35,
+      50
+    ],
+    "weight_midpoint_lb": 42.5,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "medium",
+    "dogceo_breed": "cattledog",
+    "dogceo_sub_breed": "australian",
+    "image_is_substitute": false,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "Australian Shepherd",
+    "lifespan": 13.5,
+    "lifespan_range": [
+      12.5,
+      14.5
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      40,
+      65
+    ],
+    "weight_midpoint_lb": 52.5,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "large",
+    "dogceo_breed": "australian",
+    "dogceo_sub_breed": "shepherd",
+    "image_is_substitute": false,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "Australian Terrier",
+    "lifespan": 13,
+    "lifespan_range": [
+      12,
+      14
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      15,
+      20
+    ],
+    "weight_midpoint_lb": 17.5,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "small",
+    "dogceo_breed": "terrier",
+    "dogceo_sub_breed": "australian",
+    "image_is_substitute": false,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "Basenji",
+    "lifespan": 13.5,
+    "lifespan_range": [
+      12.5,
+      14.5
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      22,
+      24
+    ],
+    "weight_midpoint_lb": 23,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "medium",
+    "dogceo_breed": "basenji",
+    "dogceo_sub_breed": null,
+    "image_is_substitute": false,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "Basset Hound",
+    "lifespan": 10,
+    "lifespan_range": [
+      9,
+      11
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      40,
+      65
+    ],
+    "weight_midpoint_lb": 52.5,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "large",
+    "dogceo_breed": "hound",
+    "dogceo_sub_breed": "basset",
+    "image_is_substitute": false,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "Beagle",
+    "lifespan": 12.5,
+    "lifespan_range": [
+      11.5,
+      13.5
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      20,
+      30
+    ],
+    "weight_midpoint_lb": 25,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "medium",
+    "dogceo_breed": "beagle",
+    "dogceo_sub_breed": null,
+    "image_is_substitute": false,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "Bearded Collie",
+    "lifespan": 13.5,
+    "lifespan_range": [
+      12.5,
+      14.5
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      45,
+      55
+    ],
+    "weight_midpoint_lb": 50,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "large",
+    "dogceo_breed": null,
+    "dogceo_sub_breed": null,
+    "image_is_substitute": true,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "Bernese Mountain Dog",
+    "lifespan": 8.5,
+    "lifespan_range": [
+      7.5,
+      9.5
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      70,
+      115
+    ],
+    "weight_midpoint_lb": 92.5,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "giant",
+    "dogceo_breed": "mountain",
+    "dogceo_sub_breed": "bernese",
+    "image_is_substitute": false,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "Bichon Frise",
+    "lifespan": 15,
+    "lifespan_range": [
+      14,
+      16
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      12,
+      18
+    ],
+    "weight_midpoint_lb": 15,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "small",
+    "dogceo_breed": "frise",
+    "dogceo_sub_breed": "bichon",
+    "image_is_substitute": false,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "Bloodhound",
+    "lifespan": 11,
+    "lifespan_range": [
+      10,
+      12
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      80,
+      110
+    ],
+    "weight_midpoint_lb": 95,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "giant",
+    "dogceo_breed": "hound",
+    "dogceo_sub_breed": "blood",
+    "image_is_substitute": false,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "Border Collie",
+    "lifespan": 13.5,
+    "lifespan_range": [
+      12.5,
+      14.5
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      30,
+      55
+    ],
+    "weight_midpoint_lb": 42.5,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "medium",
+    "dogceo_breed": "collie",
+    "dogceo_sub_breed": "border",
+    "image_is_substitute": false,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "Boston Terrier",
+    "lifespan": 12.5,
+    "lifespan_range": [
+      11.5,
+      13.5
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      12,
+      25
+    ],
+    "weight_midpoint_lb": 18.5,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "small",
+    "dogceo_breed": "bulldog",
+    "dogceo_sub_breed": "boston",
+    "image_is_substitute": false,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "Boxer",
+    "lifespan": 11,
+    "lifespan_range": [
+      10,
+      12
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      50,
+      80
+    ],
+    "weight_midpoint_lb": 65,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "large",
+    "dogceo_breed": "boxer",
+    "dogceo_sub_breed": null,
+    "image_is_substitute": false,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "Brittany",
+    "lifespan": 13,
+    "lifespan_range": [
+      12,
+      14
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      30,
+      40
+    ],
+    "weight_midpoint_lb": 35,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "medium",
+    "dogceo_breed": "spaniel",
+    "dogceo_sub_breed": "brittany",
+    "image_is_substitute": false,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "Brussels Griffon",
+    "lifespan": 13.5,
+    "lifespan_range": [
+      12.5,
+      14.5
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      8,
+      12
+    ],
+    "weight_midpoint_lb": 10,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "small",
+    "dogceo_breed": null,
+    "dogceo_sub_breed": null,
+    "image_is_substitute": true,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "Bull Terrier",
+    "lifespan": 12.5,
+    "lifespan_range": [
+      11.5,
+      13.5
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      50,
+      70
+    ],
+    "weight_midpoint_lb": 60,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "large",
+    "dogceo_breed": null,
+    "dogceo_sub_breed": null,
+    "image_is_substitute": true,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "Bulldog",
+    "lifespan": 9.5,
+    "lifespan_range": [
+      8.5,
+      10.5
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      40,
+      50
+    ],
+    "weight_midpoint_lb": 45,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "medium",
+    "dogceo_breed": "bulldog",
+    "dogceo_sub_breed": "english",
+    "image_is_substitute": false,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "Bullmastiff",
+    "lifespan": 8,
+    "lifespan_range": [
+      7,
+      9
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      100,
+      130
+    ],
+    "weight_midpoint_lb": 115,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "giant",
+    "dogceo_breed": "mastiff",
+    "dogceo_sub_breed": "bull",
+    "image_is_substitute": false,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "Cairn Terrier",
+    "lifespan": 13.5,
+    "lifespan_range": [
+      12.5,
+      14.5
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      13,
+      14
+    ],
+    "weight_midpoint_lb": 13.5,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "small",
+    "dogceo_breed": "terrier",
+    "dogceo_sub_breed": "cairn",
+    "image_is_substitute": false,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "Cavalier King Charles Spaniel",
+    "lifespan": 13.5,
+    "lifespan_range": [
+      12.5,
+      14.5
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      13,
+      18
+    ],
+    "weight_midpoint_lb": 15.5,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "small",
+    "dogceo_breed": null,
+    "dogceo_sub_breed": null,
+    "image_is_substitute": true,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "Chesapeake Bay Retriever",
+    "lifespan": 10,
+    "lifespan_range": [
+      9,
+      11
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      55,
+      80
+    ],
+    "weight_midpoint_lb": 67.5,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "large",
+    "dogceo_breed": "retriever",
+    "dogceo_sub_breed": "chesapeake",
+    "image_is_substitute": false,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "Chihuahua",
+    "lifespan": 15,
+    "lifespan_range": [
+      14,
+      16
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      2,
+      6
+    ],
+    "weight_midpoint_lb": 4,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "small",
+    "dogceo_breed": "chihuahua",
+    "dogceo_sub_breed": null,
+    "image_is_substitute": false,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "Chinese Crested",
+    "lifespan": 15,
+    "lifespan_range": [
+      14,
+      16
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      8,
+      12
+    ],
+    "weight_midpoint_lb": 10,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "small",
+    "dogceo_breed": null,
+    "dogceo_sub_breed": null,
+    "image_is_substitute": true,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "Chinese Shar-Pei",
+    "lifespan": 10,
+    "lifespan_range": [
+      9,
+      11
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      45,
+      60
+    ],
+    "weight_midpoint_lb": 52.5,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "large",
+    "dogceo_breed": "sharpei",
+    "dogceo_sub_breed": null,
+    "image_is_substitute": false,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "Chow Chow",
+    "lifespan": 10,
+    "lifespan_range": [
+      9,
+      11
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      45,
+      70
+    ],
+    "weight_midpoint_lb": 57.5,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "large",
+    "dogceo_breed": "chow",
+    "dogceo_sub_breed": null,
+    "image_is_substitute": false,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "Cocker Spaniel",
+    "lifespan": 12,
+    "lifespan_range": [
+      11,
+      13
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      20,
+      30
+    ],
+    "weight_midpoint_lb": 25,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "medium",
+    "dogceo_breed": "spaniel",
+    "dogceo_sub_breed": "cocker",
+    "image_is_substitute": false,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "Collie",
+    "lifespan": 12,
+    "lifespan_range": [
+      11,
+      13
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      50,
+      75
+    ],
+    "weight_midpoint_lb": 62.5,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "large",
+    "dogceo_breed": "rough",
+    "dogceo_sub_breed": "collie",
+    "image_is_substitute": false,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "Dachshund",
+    "lifespan": 14,
+    "lifespan_range": [
+      13,
+      15
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      11,
+      32
+    ],
+    "weight_midpoint_lb": 21.5,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "medium",
+    "dogceo_breed": "dachshund",
+    "dogceo_sub_breed": null,
+    "image_is_substitute": false,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "Dalmatian",
+    "lifespan": 12.5,
+    "lifespan_range": [
+      11.5,
+      13.5
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      45,
+      70
+    ],
+    "weight_midpoint_lb": 57.5,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "large",
+    "dogceo_breed": "dalmatian",
+    "dogceo_sub_breed": null,
+    "image_is_substitute": false,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "Doberman Pinscher",
+    "lifespan": 11,
+    "lifespan_range": [
+      10,
+      12
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      60,
+      100
+    ],
+    "weight_midpoint_lb": 80,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "large",
+    "dogceo_breed": "doberman",
+    "dogceo_sub_breed": null,
+    "image_is_substitute": false,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "English Cocker Spaniel",
+    "lifespan": 13,
+    "lifespan_range": [
+      12,
+      14
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      26,
+      34
+    ],
+    "weight_midpoint_lb": 30,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "medium",
+    "dogceo_breed": null,
+    "dogceo_sub_breed": null,
+    "image_is_substitute": true,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "English Springer Spaniel",
+    "lifespan": 13.5,
+    "lifespan_range": [
+      12.5,
+      14.5
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      40,
+      50
+    ],
+    "weight_midpoint_lb": 45,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "medium",
+    "dogceo_breed": "springer",
+    "dogceo_sub_breed": "english",
+    "image_is_substitute": false,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "French Bulldog",
+    "lifespan": 12,
+    "lifespan_range": [
+      11,
+      13
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      16,
+      28
+    ],
+    "weight_midpoint_lb": 22,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "medium",
+    "dogceo_breed": "bulldog",
+    "dogceo_sub_breed": "french",
+    "image_is_substitute": false,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "German Shepherd Dog",
+    "lifespan": 11,
+    "lifespan_range": [
+      10,
+      12
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      50,
+      90
+    ],
+    "weight_midpoint_lb": 70,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "large",
+    "dogceo_breed": "german",
+    "dogceo_sub_breed": "shepherd",
+    "image_is_substitute": false,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "German Shorthaired Pointer",
+    "lifespan": 13,
+    "lifespan_range": [
+      12,
+      14
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      45,
+      70
+    ],
+    "weight_midpoint_lb": 57.5,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "large",
+    "dogceo_breed": "pointer",
+    "dogceo_sub_breed": "german",
+    "image_is_substitute": false,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "Golden Retriever",
+    "lifespan": 11,
+    "lifespan_range": [
+      10,
+      12
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      55,
+      75
+    ],
+    "weight_midpoint_lb": 65,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "large",
+    "dogceo_breed": "retriever",
+    "dogceo_sub_breed": "golden",
+    "image_is_substitute": false,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "Great Dane",
+    "lifespan": 8,
+    "lifespan_range": [
+      7,
+      9
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      110,
+      175
+    ],
+    "weight_midpoint_lb": 142.5,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "giant",
+    "dogceo_breed": "dane",
+    "dogceo_sub_breed": "great",
+    "image_is_substitute": false,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "Greyhound",
+    "lifespan": 13.5,
+    "lifespan_range": [
+      12.5,
+      14.5
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      60,
+      70
+    ],
+    "weight_midpoint_lb": 65,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "large",
+    "dogceo_breed": "greyhound",
+    "dogceo_sub_breed": null,
+    "image_is_substitute": false,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "Havanese",
+    "lifespan": 15,
+    "lifespan_range": [
+      14,
+      16
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      7,
+      13
+    ],
+    "weight_midpoint_lb": 10,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "small",
+    "dogceo_breed": "havanese",
+    "dogceo_sub_breed": null,
+    "image_is_substitute": false,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "Husky",
+    "lifespan": 13,
+    "lifespan_range": [
+      12,
+      14
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      35,
+      60
+    ],
+    "weight_midpoint_lb": 47.5,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "medium",
+    "dogceo_breed": "husky",
+    "dogceo_sub_breed": null,
+    "image_is_substitute": false,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "Irish Setter",
+    "lifespan": 13,
+    "lifespan_range": [
+      12,
+      14
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      60,
+      70
+    ],
+    "weight_midpoint_lb": 65,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "large",
+    "dogceo_breed": "setter",
+    "dogceo_sub_breed": "irish",
+    "image_is_substitute": false,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "Irish Wolfhound",
+    "lifespan": 7,
+    "lifespan_range": [
+      6,
+      8
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      105,
+      180
+    ],
+    "weight_midpoint_lb": 142.5,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "giant",
+    "dogceo_breed": "wolfhound",
+    "dogceo_sub_breed": "irish",
+    "image_is_substitute": false,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "Italian Greyhound",
+    "lifespan": 14.5,
+    "lifespan_range": [
+      13.5,
+      15.5
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      7,
+      14
+    ],
+    "weight_midpoint_lb": 10.5,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "small",
+    "dogceo_breed": "greyhound",
+    "dogceo_sub_breed": "italian",
+    "image_is_substitute": false,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "Japanese Chin",
+    "lifespan": 11,
+    "lifespan_range": [
+      10,
+      12
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      7,
+      11
+    ],
+    "weight_midpoint_lb": 9,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "small",
+    "dogceo_breed": null,
+    "dogceo_sub_breed": null,
+    "image_is_substitute": true,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "Labrador Retriever",
+    "lifespan": 12,
+    "lifespan_range": [
+      11,
+      13
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      55,
+      80
+    ],
+    "weight_midpoint_lb": 67.5,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "large",
+    "dogceo_breed": "labrador",
+    "dogceo_sub_breed": null,
+    "image_is_substitute": false,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "Maltese",
+    "lifespan": 13.5,
+    "lifespan_range": [
+      12.5,
+      14.5
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      4,
+      7
+    ],
+    "weight_midpoint_lb": 5.5,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "small",
+    "dogceo_breed": "maltese",
+    "dogceo_sub_breed": null,
+    "image_is_substitute": false,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "Mastiff",
+    "lifespan": 8,
+    "lifespan_range": [
+      7,
+      9
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      120,
+      230
+    ],
+    "weight_midpoint_lb": 175,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "giant",
+    "dogceo_breed": "mastiff",
+    "dogceo_sub_breed": "english",
+    "image_is_substitute": false,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "Newfoundland",
+    "lifespan": 9,
+    "lifespan_range": [
+      8,
+      10
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      100,
+      150
+    ],
+    "weight_midpoint_lb": 125,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "giant",
+    "dogceo_breed": "newfoundland",
+    "dogceo_sub_breed": null,
+    "image_is_substitute": false,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "Papillon",
+    "lifespan": 15,
+    "lifespan_range": [
+      14,
+      16
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      5,
+      10
+    ],
+    "weight_midpoint_lb": 7.5,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "small",
+    "dogceo_breed": "papillon",
+    "dogceo_sub_breed": null,
+    "image_is_substitute": false,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "Pekingese",
+    "lifespan": 13,
+    "lifespan_range": [
+      12,
+      14
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      7,
+      14
+    ],
+    "weight_midpoint_lb": 10.5,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "small",
+    "dogceo_breed": "pekinese",
+    "dogceo_sub_breed": null,
+    "image_is_substitute": false,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "Pomeranian",
+    "lifespan": 14,
+    "lifespan_range": [
+      13,
+      15
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      3,
+      7
+    ],
+    "weight_midpoint_lb": 5,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "small",
+    "dogceo_breed": "pomeranian",
+    "dogceo_sub_breed": null,
+    "image_is_substitute": false,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "Poodle",
+    "lifespan": 13,
+    "lifespan_range": [
+      12,
+      14
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      4,
+      70
+    ],
+    "weight_midpoint_lb": 37,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "medium",
+    "dogceo_breed": null,
+    "dogceo_sub_breed": null,
+    "image_is_substitute": true,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "Pug",
+    "lifespan": 13.5,
+    "lifespan_range": [
+      12.5,
+      14.5
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      14,
+      18
+    ],
+    "weight_midpoint_lb": 16,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "small",
+    "dogceo_breed": "pug",
+    "dogceo_sub_breed": null,
+    "image_is_substitute": false,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "Rottweiler",
+    "lifespan": 9.5,
+    "lifespan_range": [
+      8.5,
+      10.5
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      80,
+      135
+    ],
+    "weight_midpoint_lb": 107.5,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "giant",
+    "dogceo_breed": "rottweiler",
+    "dogceo_sub_breed": null,
+    "image_is_substitute": false,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "Saint Bernard",
+    "lifespan": 9,
+    "lifespan_range": [
+      8,
+      10
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      120,
+      180
+    ],
+    "weight_midpoint_lb": 150,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "giant",
+    "dogceo_breed": "stbernard",
+    "dogceo_sub_breed": null,
+    "image_is_substitute": false,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "Samoyed",
+    "lifespan": 13,
+    "lifespan_range": [
+      12,
+      14
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      35,
+      65
+    ],
+    "weight_midpoint_lb": 50,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "large",
+    "dogceo_breed": "samoyed",
+    "dogceo_sub_breed": null,
+    "image_is_substitute": false,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "Scottish Terrier",
+    "lifespan": 13.5,
+    "lifespan_range": [
+      12.5,
+      14.5
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      18,
+      22
+    ],
+    "weight_midpoint_lb": 20,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "medium",
+    "dogceo_breed": "terrier",
+    "dogceo_sub_breed": "scottish",
+    "image_is_substitute": false,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "Shetland Sheepdog",
+    "lifespan": 13.5,
+    "lifespan_range": [
+      12.5,
+      14.5
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      15,
+      25
+    ],
+    "weight_midpoint_lb": 20,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "medium",
+    "dogceo_breed": "sheepdog",
+    "dogceo_sub_breed": "shetland",
+    "image_is_substitute": false,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "Shiba Inu",
+    "lifespan": 14.5,
+    "lifespan_range": [
+      13.5,
+      15.5
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      17,
+      23
+    ],
+    "weight_midpoint_lb": 20,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "medium",
+    "dogceo_breed": "shiba",
+    "dogceo_sub_breed": null,
+    "image_is_substitute": false,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "Shih Tzu",
+    "lifespan": 14,
+    "lifespan_range": [
+      13,
+      15
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      9,
+      16
+    ],
+    "weight_midpoint_lb": 12.5,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "small",
+    "dogceo_breed": "shihtzu",
+    "dogceo_sub_breed": null,
+    "image_is_substitute": false,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "Siberian Husky",
+    "lifespan": 13,
+    "lifespan_range": [
+      12,
+      14
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      35,
+      60
+    ],
+    "weight_midpoint_lb": 47.5,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "medium",
+    "dogceo_breed": null,
+    "dogceo_sub_breed": null,
+    "image_is_substitute": true,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "Vizsla",
+    "lifespan": 12.5,
+    "lifespan_range": [
+      11.5,
+      13.5
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      44,
+      60
+    ],
+    "weight_midpoint_lb": 52,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "large",
+    "dogceo_breed": "vizsla",
+    "dogceo_sub_breed": null,
+    "image_is_substitute": false,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "Weimaraner",
+    "lifespan": 12,
+    "lifespan_range": [
+      11,
+      13
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      55,
+      90
+    ],
+    "weight_midpoint_lb": 72.5,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "large",
+    "dogceo_breed": "weimaraner",
+    "dogceo_sub_breed": null,
+    "image_is_substitute": false,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "West Highland White Terrier",
+    "lifespan": 14,
+    "lifespan_range": [
+      13,
+      15
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      15,
+      20
+    ],
+    "weight_midpoint_lb": 17.5,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "small",
+    "dogceo_breed": "terrier",
+    "dogceo_sub_breed": "westhighland",
+    "image_is_substitute": false,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "Whippet",
+    "lifespan": 13.5,
+    "lifespan_range": [
+      12.5,
+      14.5
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      25,
+      40
+    ],
+    "weight_midpoint_lb": 32.5,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "medium",
+    "dogceo_breed": "whippet",
+    "dogceo_sub_breed": null,
+    "image_is_substitute": false,
+    "notes": "PENDING human lifespan/weight verification"
+  },
+  {
+    "name": "Yorkshire Terrier",
+    "lifespan": 13,
+    "lifespan_range": [
+      12,
+      14
+    ],
+    "lifespan_source": "SEED-1st_web",
+    "lifespan_source_url": "",
+    "weight_lb": [
+      4,
+      7
+    ],
+    "weight_midpoint_lb": 5.5,
+    "weight_source": "SEED-estimate",
+    "weight_source_url": "",
+    "access_date": "",
+    "size": "small",
+    "dogceo_breed": "terrier",
+    "dogceo_sub_breed": "yorkshire",
+    "image_is_substitute": false,
+    "notes": "PENDING human lifespan/weight verification"
+  }
+]

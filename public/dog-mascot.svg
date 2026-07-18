@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 650" role="img" aria-labelledby="title desc">
+  <title id="title">Cheerful dog mascot</title><desc id="desc">A spotted dog wearing a teal bandana and leaning forward playfully.</desc>
+  <path d="M128 380C40 298 60 151 165 121c26-73 132-103 196-47 96-13 162 72 145 154 74 77 28 202-74 215-63 83-224 94-304-63Z" fill="#fffaf0"/>
+  <path d="M168 156c-74 18-102 104-61 168 26 40 67 29 88-18 21-46 21-106-27-150ZM455 150c71 24 89 113 43 174-29 37-68 23-85-25-17-48-10-107 42-149Z" fill="#9c5f43"/>
+  <ellipse cx="304" cy="302" rx="178" ry="194" fill="#f7e9d3"/>
+  <path d="M221 148c44-35 111-43 155-16-4 66-33 96-82 91-46-5-69-28-73-75Z" fill="#9c5f43"/>
+  <ellipse cx="238" cy="292" rx="19" ry="27" fill="#26332d"/><ellipse cx="371" cy="292" rx="19" ry="27" fill="#26332d"/>
+  <circle cx="232" cy="282" r="6" fill="#fff"/><circle cx="365" cy="282" r="6" fill="#fff"/>
+  <path d="M269 353c0-35 71-35 71 0 0 26-20 39-36 39s-35-13-35-39Z" fill="#26332d"/>
+  <path d="M304 392c0 34-28 53-62 34M304 392c0 34 28 53 62 34" fill="none" stroke="#26332d" stroke-width="11" stroke-linecap="round"/>
+  <path d="M222 439c48 38 120 41 169 2l54 129-142 65-147-74Z" fill="#26776d"/>
+  <path d="M236 451c38 34 101 35 139 1" fill="none" stroke="#fffaf0" stroke-width="8" stroke-linecap="round" opacity=".7"/>
+  <circle cx="307" cy="519" r="25" fill="#f6c85f"/><path d="m307 501 6 12 14 2-10 10 2 14-12-7-13 7 3-14-11-10 15-2Z" fill="#ef6a5b"/>
+  <path d="M145 538c-70 25-89 99-35 105 43 5 91-19 121-60M463 529c76 12 108 82 57 98-41 13-93-2-132-38" fill="#f7e9d3" stroke="#9c5f43" stroke-width="8" stroke-linecap="round"/>
+</svg>

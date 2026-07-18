@@ -96,3 +96,32 @@ Converged. Applied both non-blocking cleanups anyway: renumbered Phase 2/3 steps
 ---
 
 **Resolution: APPROVED after 4 rounds.** Grilled with the user (Act 1), then stress-tested across 4 Codex rounds (8 → 7 → 6 → 0 material findings). No deadlock; Claude accepted every material finding (all were genuine spec gaps, not taste) and rejected none. Plan is locked and ready for implementation. No code written during either act.
+
+---
+
+## Act 3 — Build (Codex builds, Claude verifies)
+Builder model: gpt-5.6-sol (config default) — codex-cli 0.144.1. Codex build thread: `019f7547-959f-74b2-bb0e-60936019a2ff`. `MAX_FIX_ROUNDS=2`.
+
+Spec scoping decision (Claude, as spec-writer): the plan's Phase 1 lifespan sourcing was **withheld from Codex** to avoid fabricated source URLs. Codex seeds `breeds.json` from the legacy `1st_web` numbers with honest placeholder provenance (`SEED-*` labels, blank URLs, `PENDING` notes); Claude does the authoritative WebSearch verification pass afterward, guarded by the integrity test.
+
+### Round 1 — Codex build
+Codex scaffolded the full Vite + React + Tailwind app end-to-end: pure-logic modules with tests (`ageModels`, `validation`, `lifeStage`, `dogImage`, dataset-integrity `breeds.test.js`), components (`BreedCombobox` ARIA combobox, `DogPhoto` image pipeline, `AnimatedNumber`, `ResultsPanel`, ported shadcn ui), an 81-breed seeded `breeds.json`, local SVG fallback/mascot assets, CSP + `base:'./'`, subpath/browser smoke scripts, CI workflow, README + DEPLOYMENT.md.
+
+The background run was **killed at the 10-min ceiling** — not while building, but stuck retrying `npm test`, which failed in Codex's sandbox with `-1073741502` (`0xC0000142` / DLL-init, a Windows process-spawn failure), so no final report was written. The source tree was fully written before the kill.
+
+### Claude's verdict — VERIFIED / PASS
+Ran the proof in Claude's own environment (Codex couldn't):
+- `npm test` → **57 passed / 9 files**, exit 0. The `-1073741502` was purely Codex's sandbox, not real failures.
+- `npm run build` → production build succeeds (221 KB JS / 18.8 KB CSS, gzip 65/4.7).
+- `npm run smoke:subpath` → PASS: `/apps`→`/apps/` redirect, assets stay under `/apps/`, bundled images load under subpath.
+
+Diff read like a PR — high spec fidelity:
+- Model A piecewise exact + AKC source cited; 78.8 labeled app-defined; Model C guards lifespan>0.
+- Validation: whole-number, 30-cap typo message, months 0–11, both-zero reject.
+- Life-stage clamps visual bar to [0,100] while keeping true fraction; AAHA-informed, non-clinical labeling.
+- Image pipeline: request-id + AbortController race guard, `images.dog.ceo` host allowlist, status/https/timeout checks, local SVG fallback (not another dog.ceo URL), substitutes skip fetch + hide "fetch another".
+- CSP (`img-src images.dog.ceo`, `connect-src dog.ceo`) + relative `base:'./'`.
+- Data seeding honest: all `SEED-*` labels, **0 fabricated source URLs**, 18/81 substitutes with null mappings.
+- `.gitignore` excludes node_modules/dist/logs — no stray artifacts commit.
+
+Deviations (non-blocking): (1) Codex couldn't run the proof in its sandbox — Claude ran it. (2) `breeds.test.js` hard-asserts the exact `SEED-*` provenance values rather than "a label is present"; those assertions must be loosened when Claude's verification pass fills real URLs — a Phase-1 follow-up, not a defect. No fix round needed; proof passes.
