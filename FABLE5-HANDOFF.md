@@ -59,7 +59,7 @@ Result: a stable URL like `https://dogs-true-age-v2-xxxx.vercel.app`. The URL **
   "owner": "both",
   "liveUrl": "https://REPLACE-WITH-VERCEL-URL",
   "embeddable": true,
-  "accent": "#PICK6HEX",
+  "accent": "#f59e0b",
   "screenshot": "screenshots/cover.png"
 }
 ```
@@ -74,7 +74,7 @@ Schema constraints (from `macscott-sites/lib/manifest.ts`):
 | `owner` | `"both"` → shows on both sites. (Repo is XRAI-Studio, so allowed values are `scott` or `both`.) |
 | `liveUrl` | HTTPS, not a macscott.net origin. Optional — omit for an "in development" orb. |
 | `embeddable` | defaults `true` when `liveUrl` is set; set `false` only if the app blocks iframing. |
-| `accent` | **required**, six-digit hex e.g. `#f59e0b`. **← still needs to be chosen by Scott.** |
+| `accent` | **required**, six-digit hex. **Use `#f59e0b` (amber) — chosen by Scott.** |
 | `screenshot` | optional, repo-relative path (no leading `/`, no `..`), fetched at the pinned commit SHA. If omitted, the catalog falls back to the repo's OpenGraph image. |
 | (extra keys) | rejected — schema is `.strict()`. |
 
@@ -114,7 +114,6 @@ jobs:
 4. If it's missing, check the showcase's rejection log (`GET /api/catalog-status`, Bearer-protected):
    an invalid manifest excludes only this repo with a structured reason.
 
-## Open decision for Scott
+## Decisions (locked)
 
-- **Accent color** for the orb/card (`accent` hex). Suggestions: warm amber `#f59e0b`,
-  teal `#14b8a6`, or royal blue `#4da6ff`.
+- **Accent color:** `#f59e0b` (amber). Use it verbatim in `macscott.json`.
