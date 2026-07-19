@@ -61,7 +61,7 @@ export default function App() {
         <div>
           <div className="mb-8 flex items-center gap-3 text-sm font-black tracking-tight text-teal">
             <span className="grid size-10 place-items-center rounded-2xl bg-teal text-white"><Bone aria-hidden="true" className="size-5 -rotate-45" /></span>
-            DOG AGE <span className="font-medium text-ink/45">by XRAI Studio</span>
+            DOGS TRUE AGE V2 <span className="font-medium text-ink/45">by XRAI Studio</span>
           </div>
           <p className="mb-4 inline-flex items-center gap-2 rounded-full bg-white px-4 py-2 text-xs font-bold text-teal shadow-sm ring-1 ring-ink/5">
             <Stethoscope aria-hidden="true" className="size-4" /> Playful perspective, no exam room required

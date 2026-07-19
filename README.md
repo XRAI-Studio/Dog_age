@@ -1,4 +1,4 @@
-# Dog Age
+# Dogs True Age v2
 
 A frontend-only Vite + React + Tailwind app that shows a dog's approximate human-equivalent age from two perspectives: a staged, size-aware model and a linear life-fraction comparison.
 

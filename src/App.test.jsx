@@ -5,7 +5,7 @@ import App from './App'
 
 afterEach(() => vi.unstubAllGlobals())
 
-describe('Dog Age app', () => {
+describe('Dogs True Age v2 app', () => {
   it('announces validation errors and then shows both model results', async () => {
     const user = userEvent.setup()
     vi.stubGlobal('fetch', vi.fn().mockResolvedValue({
