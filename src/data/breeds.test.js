@@ -21,12 +21,16 @@ describe('breed dataset integrity', () => {
       expect(breed.lifespan_range[0]).toBeLessThanOrEqual(breed.lifespan_range[1])
       const roundedMidpoint = Math.round(((breed.lifespan_range[0] + breed.lifespan_range[1]) / 2) * 2) / 2
       expect(breed.lifespan).toBe(roundedMidpoint)
-      expect(breed.lifespan_source).toBe('SEED-1st_web')
-      expect(breed.lifespan_source_url).toBe('')
-      expect(breed.weight_source).toBe('SEED-estimate')
-      expect(breed.weight_source_url).toBe('')
-      expect(breed.access_date).toBe('')
-      expect(breed.notes).toBe('PENDING human lifespan/weight verification')
+      // Provenance must be real and auditable: a named source, an https URL,
+      // and an access date. No lingering SEED placeholders or PENDING notes.
+      expect(breed.lifespan_source).toBeTruthy()
+      expect(breed.lifespan_source).not.toMatch(/^SEED/)
+      expect(breed.lifespan_source_url).toMatch(/^https:\/\//)
+      expect(breed.weight_source).toBeTruthy()
+      expect(breed.weight_source).not.toMatch(/^SEED/)
+      expect(breed.weight_source_url).toMatch(/^https:\/\//)
+      expect(breed.access_date).toMatch(/^\d{4}-\d{2}$/)
+      expect(breed.notes).not.toMatch(/PENDING/)
       expect(breed.weight_midpoint_lb).toBe((breed.weight_lb[0] + breed.weight_lb[1]) / 2)
       expect(breed.size).toBe(expectedSize(breed.weight_midpoint_lb))
 
